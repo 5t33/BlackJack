@@ -1,0 +1,6 @@
+Welcome to BlackJack. Press 1 to start a new game. Press 2 to exit.
+Invalid selection, please choose 1 or 2.
+Invalid selection, please choose 1 or 2.
+Invalid selection, please choose 1 or 2.
+Invalid selection, please choose 1 or 2.
+Goodbye.

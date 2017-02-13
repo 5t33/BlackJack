@@ -1,0 +1,26 @@
+Welcome to BlackJack. Press 1 to start a new game. Press 2 to exit.
+Starting Game...
+Shuffling cards...
+Dealing hands...
+Ace of spades dealt to Player
+Four of hearts dealt to Player
+Enter 1 to hit, or 2 to stay.
+Player stays.
+King of diamonds dealt to Dealer
+Four of spades dealt to Dealer
+Eight of clubs dealt to Dealer
+Dealer busts!
+Player wins!
+If you would like to play another hand, press 1. If you would like to exit, press 2.
+Shuffling cards...
+Dealing hands...
+Five of diamonds dealt to Player
+Three of spades dealt to Player
+Enter 1 to hit, or 2 to stay.
+Player stays.
+Ten of clubs dealt to Dealer
+Queen of spades dealt to Dealer
+Dealer stays.
+Dealer wins!
+If you would like to play another hand, press 1. If you would like to exit, press 2.
+Goodbye.
